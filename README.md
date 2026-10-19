@@ -48,6 +48,16 @@ I'm currently continuing to develop my skills in **AI/ML engineering, data engin
 
 ## 📌 Featured Projects
 
+### ♿ [Reachable: Accessible Journey Planner](https://github.com/NhatNguyen3001/Sym-AI-Hackathon-Reachable)
+
+An **AI-powered, step-free journey planner for Greater Sydney** that combines accessible walking routes with public transport, live station lift alerts, and personalised slope guidance. Uses **Claude** to assess roadworks and clearly labels uncertain accessibility information.
+
+Built for **Sym AI Open 2026** at Macquarie University. [View the recorded showcase](https://reachable-five.vercel.app). The prototype has not yet been tested with its intended users.
+
+**Tech:** `Python` `FastAPI` `Next.js` `Claude` `Valhalla` `OpenStreetMap` `Transport for NSW Open Data` `Turso`
+
+---
+
 ### 🛒 [MACS: Merchant Agent Commerce System](https://github.com/NhatNguyen3001/uav-merchant-agent-commerce-system-claudemaxforever)
 
 A retailer-side **agentic AI system** designed to interact with autonomous shopping agents. It verifies buyer agents, interprets purchase requirements, retrieves products, negotiates within merchant rules, and executes authorised orders.
@@ -89,9 +99,9 @@ This project received the **Best Interactive Visualization award at Macquarie Da
 ## 🏆 Highlights
 
 - 🎓 **Macquarie University Award for Academic Excellence 2026**
-- 🥈 **2nd Place – UAVS Hackathon 2026**
-- 🏆 **Best Interactive Visualization – Macquarie DataViz 2025**
-- 🔬 **R&D Internship – Deepfake Detection at Truuth**
+- 🥈 **2nd Place: UAVS Hackathon 2026**
+- 🏆 **Best Interactive Visualization: Macquarie DataViz 2025**
+- 🔬 **R&D Internship: Deepfake Detection at Truuth**
 
 ## 🌱 Currently Learning & Exploring
 
