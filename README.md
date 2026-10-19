@@ -52,7 +52,9 @@ I'm currently continuing to develop my skills in **AI/ML engineering, data engin
 
 An **AI-powered, step-free journey planner for Greater Sydney** that combines accessible walking routes with public transport, live station lift alerts, and personalised slope guidance. Uses **Claude** to assess roadworks and clearly labels uncertain accessibility information.
 
-Built for **Sym AI Open 2026** at Macquarie University. [View the recorded showcase](https://reachable-five.vercel.app). The prototype has not yet been tested with its intended users.
+Built for **Sym AI Open 2026** at Macquarie University. The prototype has not yet been tested with its intended users.
+
+**Demo:** [View recorded showcase](https://reachable-five.vercel.app)
 
 **Tech:** `Python` `FastAPI` `Next.js` `Claude` `Valhalla` `OpenStreetMap` `Transport for NSW Open Data` `Turso`
 
