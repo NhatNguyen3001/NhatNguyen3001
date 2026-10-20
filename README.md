@@ -64,7 +64,7 @@ Built for **Sym AI Open 2026** at Macquarie University. The prototype has not ye
 
 A retailer-side **agentic AI system** designed to interact with autonomous shopping agents. It verifies buyer agents, interprets purchase requirements, retrieves products, negotiates within merchant rules, and executes authorised orders.
 
-Built for the **UAVS Hackathon 2026** by Team ClaudeMax Forever.
+Built for the **UAVS Hackathon 2026** by Team ClaudeMax Forever. The project also won the **People's Choice Award at the Macquarie University Technology and Innovation Expo 2026**.
 
 **Tech:** `Python` `LangGraph` `Claude` `FastMCP` `FastAPI` `Vertex AI` `Firestore` `Google Cloud` `Vue`
 
@@ -101,6 +101,7 @@ This project received the **Best Interactive Visualization award at Macquarie Da
 ## 🏆 Highlights
 
 - 🎓 **Macquarie University Award for Academic Excellence 2026**
+- 🏆 **People's Choice Award: Macquarie University Technology and Innovation Expo 2026**
 - 🥈 **2nd Place: UAVS Hackathon 2026**
 - 🏆 **Best Interactive Visualization: Macquarie DataViz 2025**
 - 🔬 **R&D Internship: Deepfake Detection at Truuth**
