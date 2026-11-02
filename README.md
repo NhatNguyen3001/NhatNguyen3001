@@ -1,126 +1,69 @@
 # Hi, I'm Dang Nhat Nguyen (Davis) 👋
 
-I'm an **AI and Data graduate based in Sydney, Australia**, with a Master of Information Technology in Artificial Intelligence from Macquarie University.
+I'm an **AI/ML graduate based in Sydney, Australia**, with a Master of Information Technology (AI) from Macquarie University.
 
-My interests are mainly around **Machine Learning, Agentic AI, Large Language Models, and intelligent AI systems**. I enjoy working on practical projects that combine AI research, software engineering, data, and cloud technologies.
-
-During my studies and industry experience, I have worked on projects involving **deepfake detection, computer vision, RAG systems, AI agents, data visualisation, and cloud-based machine learning**. I also completed an R&D internship at Truuth, where I worked on deepfake detection models and experimented with multimodal LLMs for synthetic image detection.
-
-I was awarded the **Macquarie University Award for Academic Excellence 2026** and have taken part in several AI, data, and innovation projects and competitions.
-
-I'm currently continuing to develop my skills in **AI/ML engineering, data engineering, cloud systems, and software development**, while exploring areas such as **Agentic AI, LLM systems, RAG, MCP, and multi-agent architectures**.
-
-## 🚀 Areas I'm Interested In
-
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Large Language Models & RAG
-- 🕸️ Agentic AI & AI Systems
-- 👁️ Computer Vision & Generative AI
-- 📊 Data & Analytics
-- 🔧 Data Engineering
-- ☁️ Cloud AI & Machine Learning
+I focus on **Agentic AI, LLM systems, and Machine Learning**, with experience building AI applications using Python, modern AI frameworks, and cloud technologies.
 
 ## 🛠️ Tech Stack
 
-### Languages
+- **Languages:** Python, SQL
+- **AI/ML:** PyTorch, TensorFlow, scikit-learn, Hugging Face
+- **LLMs & Agents:** LangGraph, LangChain, RAG, MCP, QLoRA/PEFT
+- **Backend & Data:** FastAPI, PostgreSQL, MongoDB, PySpark, Databricks
+- **Cloud & Tools:** AWS, Azure, Google Cloud, Docker, Git
 
-`Python` `SQL`
-
-### AI & Machine Learning
-
-`PyTorch` `TensorFlow` `scikit-learn` `LangChain` `LangGraph` `Hugging Face`
-
-### Data
-
-`Pandas` `NumPy` `PySpark` `PostgreSQL` `MongoDB` `Databricks` `Qdrant`
-
-### Cloud
-
-`AWS` `Azure` `SageMaker` `S3` `Bedrock` `Google Cloud`
-
-### Visualisation & Applications
-
-`Power BI` `Tableau` `Streamlit` `Altair`
-
-### Development & Tools
-
-`Git` `Docker` `FastAPI`
-
-## 📌 Featured Projects
-
-### ♿ [Reachable: Accessible Journey Planner](https://github.com/NhatNguyen3001/Sym-AI-Hackathon-Reachable)
-
-An **AI-powered, step-free journey planner for Greater Sydney** that combines accessible walking routes with public transport, live station lift alerts, and personalised slope guidance. Uses **Claude** to assess roadworks and clearly labels uncertain accessibility information.
-
-Built for **Sym AI Open 2026** at Macquarie University. The prototype has not yet been tested with its intended users.
-
-**Demo:** [View recorded showcase](https://reachable-five.vercel.app)
-
-**Tech:** `Python` `FastAPI` `Next.js` `Claude` `Valhalla` `OpenStreetMap` `Transport for NSW Open Data` `Turso`
-
----
+## 🚀 Featured Projects
 
 ### 🛒 [MACS: Merchant Agent Commerce System](https://github.com/NhatNguyen3001/uav-merchant-agent-commerce-system-claudemaxforever)
 
-A retailer-side **agentic AI system** designed to interact with autonomous shopping agents. It verifies buyer agents, interprets purchase requirements, retrieves products, negotiates within merchant rules, and executes authorised orders.
+An agentic AI platform enabling retailers to interact with autonomous AI shopping agents, from product discovery and negotiation to authorised purchases.
 
-Built for the **UAVS Hackathon 2026** by Team ClaudeMax Forever. The project also won the **People's Choice Award at the Macquarie University Technology and Innovation Expo 2026**.
+**Tech:** Python, LangGraph, Claude, FastMCP, FastAPI, Firestore, Google Cloud
 
-**Tech:** `Python` `LangGraph` `Claude` `FastMCP` `FastAPI` `Vertex AI` `Firestore` `Google Cloud` `Vue`
-
----
+🏆 2nd Place at UAVS Hackathon 2026 | People's Choice Award at Macquarie Technology & Innovation Expo 2026
 
 ### 🏥 [Healthcare LLM Assistant](https://github.com/NhatNguyen3001/Healthcare-LLM-Assistant)
 
-A locally deployable healthcare NLP and **multi-agent RAG system** that combines voice input, privacy filtering, biomedical retrieval, and multiple LLM agents.
+A multi-agent healthcare RAG system integrating biomedical knowledge retrieval, PII protection, voice interaction, and LLM fine-tuning.
 
-The project also explores **QLoRA fine-tuning** of Qwen and Llama models and compares local fine-tuned models with larger cloud-based LLMs.
+**Tech:** Python, RAG, QLoRA/PEFT, Qwen, Llama, Ollama, ChromaDB
 
-**Tech:** `Python` `RAG` `QLoRA` `Qwen` `Llama` `Ollama` `ChromaDB` `Streamlit` `scikit-learn`
+### 📊 [LifeChanger Impact AI](https://github.com/NhatNguyen3001/LaTeam--LifeChanger)
 
----
+A conversational analytics platform allowing staff to explore survey data from 17 schools using natural language, SQL insights, and semantic search.
+
+**Tech:** Next.js, Claude, Supabase, PostgreSQL
 
 ### 📰 [AI Trends Digest](https://github.com/NhatNguyen3001/ai-trends-digest)
 
-A self-running **agentic AI pipeline** that collects AI research and news from multiple sources, removes duplicates, ranks and summarises important developments, and delivers a daily email digest.
+An automated agentic AI pipeline that collects, ranks, and summarises AI research and news, delivering daily email digests with a RAG-powered research feature.
 
-It also includes an **agentic RAG deep-dive system** for researching individual stories with cited sources and is deployed as a scheduled workflow on AWS.
+**Tech:** Python, LangGraph, Claude, Qdrant, FastAPI, Docker, AWS
 
-**Tech:** `Python` `LangGraph` `Claude` `Qdrant` `FastAPI` `Docker` `AWS Fargate` `EventBridge` `EFS` `SES`
+## 💼 Experience
 
----
+- **Machine Learning Engineer Intern | Truuth (2026):** Fine-tuned deepfake detection models using Python, PyTorch, and AWS, improving detection accuracy and reducing false positives.
+- **Data Science Intern | FPT Information System (2022):** Developed SQL and Python data processing workflows for cleaning and validating structured datasets.
 
-### 🌏 [MQ DataViz 2025: Air Quality Dashboard](https://github.com/NhatNguyen3001/MQ-DATAVIZ-2025)
-
-An interactive air quality dashboard for exploring **PM2.5, PM10, and NO₂** data through maps, trends, filters, and visual analytics.
-
-This project received the **Best Interactive Visualization award at Macquarie DataViz 2025**.
-
-**Tech:** `Python` `Streamlit` `Altair` `Pandas` `Data Visualisation`
-
-## 🏆 Highlights
+## 🏆 Awards & Recognition
 
 - 🎓 **Macquarie University Award for Academic Excellence 2026**
-- 🏆 **People's Choice Award: Macquarie University Technology and Innovation Expo 2026**
-- 🥈 **2nd Place: UAVS Hackathon 2026**
-- 🏆 **Best Interactive Visualization: Macquarie DataViz 2025**
-- 🔬 **R&D Internship: Deepfake Detection at Truuth**
+- 🏆 **People's Choice Award**, Macquarie Technology & Innovation Expo 2026
+- 🥈 **2nd Place**, UAVS Hackathon 2026
+- 🏆 **Best Interactive Visualization (Postgraduate)**, Macquarie DataViz 2025
 
-## 🌱 Currently Learning & Exploring
+## 📰 Media Coverage
 
-### AI & Emerging Technologies
+- **[Tuổi Trẻ: Đưa AI vào lớp mỹ thuật, hỗ trợ học sinh phát triển ý tưởng](https://tuoitre.vn/dua-ai-vao-lop-my-thuat-ho-tro-hoc-sinh-phat-trien-y-tuong-100260915145524904.htm)** | September 2026
 
-`Agentic AI` · `LLM Systems` · `AI Agents` · `RAG` · `MCP` · `Multi-Agent Systems`
+  Featured ADIMI, an AI-assisted art education platform showcased at SITUATION 2026 in Canberra.
 
-### Software Engineering
+- **[VietnamPlus: Sinh viên Việt Nam tại Australia thử sức với các bài toán AI thực tiễn](https://www.vietnamplus.vn/sinh-vien-viet-nam-tai-australia-thu-suc-voi-cac-bai-toan-ai-thuc-tien-post1137311.vnp)** | September 2026
 
-`TypeScript` · `JavaScript` · `React` · `Node.js` · `PostgreSQL`
+  Featured UAVS Hackathon 2026, including our team's second-place achievement with MACS.
 
-I'm currently expanding my software engineering skills alongside my AI background, with a focus on building more complete AI-powered applications and systems.
+## 📫 Connect
 
-## 📫 Connect With Me
+📍 Sydney, Australia
 
-I'm currently based in **Sydney, Australia** and interested in opportunities across **AI/ML Engineering, Data Engineering, and AI Systems**.
-
-- LinkedIn: [https://www.linkedin.com/in/davisnguyen3001/](https://www.linkedin.com/in/davisnguyen3001/)
-- Email: davisnguyen3001@gmail.com
+[LinkedIn](https://www.linkedin.com/in/davisnguyen3001/) | [Email](mailto:davisnguyen3001@gmail.com)
